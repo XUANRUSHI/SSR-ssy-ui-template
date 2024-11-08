@@ -3,6 +3,9 @@
 - git pull --rebase
 - git switch
 - merge
+- revert
+- reset
+- rebase
 
 # ssy-ui-vite
 
