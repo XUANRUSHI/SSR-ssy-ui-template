@@ -1,5 +1,6 @@
 ## 项目合作
-11111
+git pull
+git pull --rebase
 
 # ssy-ui-vite
 
