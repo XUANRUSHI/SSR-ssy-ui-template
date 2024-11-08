@@ -1,6 +1,8 @@
 ## 项目合作
-git pull
-git pull --rebase
+- git pull
+- git pull --rebase
+- git switch
+- merge
 
 # ssy-ui-vite
 
